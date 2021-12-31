@@ -1,6 +1,6 @@
 Hola, esta es mi primera prueba de git.
 
-A lo largo de esta prueba estaré probando algunas 
-caractristicas de git, como lo es un salto de linea y lo que no
+A lo largo de esta prueba estaré probando algunas caractristicas de git, como lo es un salto de linea y lo que no
 me di cuenta que lo mejor es dejar el punto aqui.
 
+Esta es la prueba de que ahora estoy en cabecera.
